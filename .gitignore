@@ -1,0 +1,21 @@
+# === Python backend ===
+__pycache__/
+*.pyc
+venv/
+.env
+
+# === Models (large files, do not push) ===
+backend/models/
+*.bin
+*.ckpt
+*.safetensors
+
+# === Node/React frontend ===
+node_modules/
+build/
+dist/
+*.log
+
+# === VS Code / OS ===
+.vscode/
+.DS_Store

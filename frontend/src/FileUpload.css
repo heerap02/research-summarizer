@@ -1,0 +1,36 @@
+/* FileUpload.css */
+.upload-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+input {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+.summary-container {
+  margin-top: 30px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  width: 50%;
+  text-align: left;
+  background-color: #f9f9f9;
+}
