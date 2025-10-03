@@ -50,3 +50,10 @@ research-summarizer/
 │  └─ src/App.js          # React frontend
 ├─ .gitignore
 └─ README.md
+
+## 📷 Demo
+
+Here’s the Research Summarizer in action:
+
+![Upload Demo](screenshots/demo1.png)
+![Summary Output](screenshots/demo2.png)
