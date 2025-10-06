@@ -57,3 +57,14 @@ Here’s the Research Summarizer in action:
 
 ![Upload Demo](screenshots/demo1.png)
 ![Summary Output](screenshots/demo2.png)
+
+---
+
+## 👥 Contributors
+
+This project was developed as part of a group effort.  
+
+- **Heera Prashanth** –  [GitHub](https://github.com/heerap02) 
+- **Shriyashreshta** –  [GitHub](https://github.com/Shrita08/Projects.)
+- **Keerthana B G **
+-
